@@ -1,0 +1,16 @@
+body {
+	background: #D1D0F2;
+}
+p {
+	text-align: left;
+}
+em strong {
+	color: #322A4D;
+}
+#capa {
+	height: 60%;
+	width: 60%;
+	padding: 10px;
+	margin-left: 1px ;
+	border: solid #322A4D;
+}
