@@ -1,16 +1,25 @@
 body {
-	background: #D1D0F2;
+	background: #D1D0F2;}
+
+ h1 {
+ 	font-size: 70px;
+ 	text-align: center;
+ 	color: #3D1A61;
+ }
+
+h2 {
+	color: #250047 ;
 }
 p {
 	text-align: left;
+	font-size: 150%;
 }
-em strong {
-	color: #322A4D;
+strong {
+	color: #1C0036;
 }
 #capa {
-	height: 60%;
-	width: 60%;
+	height: 75%;
+	width: 85%;
 	padding: 10px;
 	margin-left: 1px ;
-	border: solid #322A4D;
 }
