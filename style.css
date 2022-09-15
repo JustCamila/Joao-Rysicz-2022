@@ -17,6 +17,12 @@ p {
 strong {
 	color: #1C0036;
 }
+
+.flores {
+	background: #D1D0F2;
+	font-size: 150%;
+}
+
 #capa {
 	height: 75%;
 	width: 85%;
@@ -24,9 +30,7 @@ strong {
 	margin-left: 1px ;
 }
 
-#flor {
-	height: 30%;
-	width: 30%;
-	padding: 10px;
-	margin-left: 1px
+.rosaimagem {
+	width:  20%;
+	
 }
