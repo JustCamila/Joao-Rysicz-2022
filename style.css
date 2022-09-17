@@ -1,36 +1,36 @@
 body {
-	background: #D1D0F2;}
-
- h1 {
- 	font-size: 70px;
+	background: #EAE0E9;
+}
+ 
+ h2 {
+ 	font-size: 78px;
  	text-align: center;
  	color: #3D1A61;
  }
 
-h2 {
-	color: #250047 ;
+h3 {
+	font-size: 40px ;
+	color: #1C0036;
 }
+
 p {
 	text-align: left;
-	font-size: 150%;
+	font-size: 25px
+}
+
 }
 strong {
 	color: #1C0036;
 }
 
-.flores {
-	background: #D1D0F2;
-	font-size: 150%;
+.floresimagem {
+	width:  60%;
+	padding: 20px
 }
 
-#capa {
-	height: 75%;
-	width: 85%;
-	padding: 10px;
-	margin-left: 1px ;
+.cravoimagem {
 }
-
-.rosaimagem {
-	width:  20%;
-	
+.principal {
+	padding: 40px;
+	background: #EAE0E9;
 }
