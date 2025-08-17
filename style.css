@@ -33,7 +33,15 @@ strong {
 	background: #EAE0E9;
 }
 
+header {
+    background-color: #3D1A61;
+    padding: 20px;
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+}
+
 .icone {
-	width: 7%;
-	padding: 40px;
+    width: 100px; 
+    display: block; 
 }
