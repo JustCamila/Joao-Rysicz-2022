@@ -1,47 +1,57 @@
 body {
-	background: #EAE0E9;
+    background: #EAE0E9;
 }
- 
- h2 {
- 	font-size: 78px;
- 	text-align: center;
- 	color: #3D1A61;
- }
+ 
+h2 {
+    font-size: 78px;
+    text-align: center;
+    color: #3D1A61;
+}
 
 h3 {
-	font-size: 40px ;
-	color: #1C0036;
+    font-size: 40px;
+    color: #1C0036;
 }
 
 p {
-	text-align: left;
-	font-size: 25px
+    text-align: left;
+    font-size: 25px;
 }
 
-}
 strong {
-	color: #1C0036;
+    color: #1C0036;
 }
 
 .floresimagem {
-	width:  60%;
-	padding: 20px
+    width: 60%;
+    padding: 20px;
 }
 
 .principal {
-	padding: 40px;
-	background: #EAE0E9;
+    padding: 40px;
+    background: #EAE0E9;
 }
 
 header {
     background-color: #3D1A61;
     padding: 20px;
     display: flex;
-    justify-content: center; 
-    align-items: center; 
+    justify-content: space-between; 
+    align-items: center;
 }
 
 .icone {
-    width: 100px; 
-    display: block; 
+    width: 100px;
+    display: block;
+}
+
+nav {
+    display: flex;
+    gap: 20px; 
+}
+
+nav span {
+    color: white; 
+    font-weight: bold;
+    font-size: 20px;
 }
